@@ -68,5 +68,27 @@
 
 
 ## Цитаты
+Чтобы вставить цитату, достаточно написать следующее:
+> Это цитата
+
+Пример кода:
+`python print("Hello World")
+`
+
+```
+x = int(input("Enter a number: "))
+if x > 10:
+    print("x is greater than 10")
+else:
+    print("x is less than or equal to 10")
+```
+
+Код на JavaScript:
+```javascript
+function greet(name) {
+    console.log("Hello, " + name + "!");
+}
+greet("World");
+```
 
 ## Заключение
